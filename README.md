@@ -76,6 +76,13 @@ Figure 12, correspond to the log files:
 <li>/DESPOTLogs/DC6/_logi1000_v101b_c6_s10_YesDYesJ.json</li>
 </ul>
 
+For experiments based on the Perseus Solver, the log files for both the RDM and IoT case studies are provided in the following directories:
+<ul>
+<li>/PerseusLogs/DataSet/DataSet_DELTAIOT</li>
+<li>/PerseusLogs/DataSet/DataSet_RDMSim</li>
+</ul>
+
+
  
 
 
